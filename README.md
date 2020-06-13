@@ -45,5 +45,16 @@
       * Pop and store the top most element.
       * By recursion reverse the remaining stack.
       * Insert the element popped at bottom.
+      * Reference: https://www.youtube.com/watch?time_continue=143&v=OICGlFDuaFQ&feature=emb_logo
 
 <hr/>
+
+## <a href="https://github.com/sanya2508/Stack/blob/master/balancedParenthesisUpdated.cpp">Balanced Parenthesis</a>
+ * Reference: https://www.youtube.com/watch?v=2dBfRFlQm5w
+
+## Stock Span Problem
+ * Reference: https://www.youtube.com/watch?v=OhlWcOaQSAo&feature=emb_logo
+
+## <a href="https://github.com/sanya2508/Stack/blob/master/histogram.cpp">Histogram Area</a>
+ * Reference: https://www.youtube.com/watch?time_continue=1&v=MhQPpAoZbMc&feature=emb_logo
+
